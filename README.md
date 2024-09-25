@@ -17,6 +17,7 @@ This program performs a binary search to find a specified number within a sorted
 
 
 **Instructions to Run -**
+
 Assembly Code Execution: Use the MARS MIPS Assembler to assemble and run the provided assembly programs.
 
 Processor Simulation: Run the mips_processor.py script to simulate the execution of the machine code. 
