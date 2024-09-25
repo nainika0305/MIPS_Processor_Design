@@ -3,17 +3,17 @@ This repository contains the implementation for Assignment 2 of the EG 212 Compu
 
 The following programs have been implemented in MIPS assembly language:
 
-Finding the Factorial of a Number:
-
+1. Finding the Factorial of a Number:
 This program computes the factorial of a given integer using iterative logic.
-Sorting an Array Using Selection Sort:
 
+2. Sorting an Array Using Selection Sort:
 This program sorts an array of integers in ascending order using the selection sort algorithm.
-Searching a Number in an Array Using Binary Search:
 
+3. Searching a Number in an Array Using Binary Search:
 This program performs a binary search to find a specified number within a sorted array.
 
-Report contains the report (PDF) documenting the assignment details, including explanations, assumptions, and results.
+
+**Report**: contains the report (PDF) documenting the assignment details, including explanations, assumptions, and results.
 
 
 **Instructions to Run - **
